@@ -396,8 +396,8 @@ footer .line-footer p i a:hover {
 
     /* Estilo das Sobre */
 
-    section .sobre {
-        padding: 80px 8%;
+    section.sobre {
+        padding: 40px 8%;
     }
 
     section.sobre .container-flex {
@@ -427,7 +427,8 @@ footer .line-footer p i a:hover {
     .container-img-port {
         width: 100%;
     }
-    section.portifolio .container-flex{
+
+    section.portifolio .container-flex {
         gap: 60px;
     }
 
@@ -435,7 +436,5 @@ footer .line-footer p i a:hover {
     footer .line-footer {
         text-align: center;
     }
-
-
 
 }
