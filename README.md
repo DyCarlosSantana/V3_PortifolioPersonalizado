@@ -5,7 +5,7 @@
 | -------------  | --- |
 | Nome        | **Portifolio Personalizado**
 | Tecnologias | HTML, CSS
-| URL         | https://edycarlossouza.github.io/Portifolio_Personalizado/
+| URL         | https://edycarlossouza.github.io/V3_PortifolioPersonalizado/
 </div>
 <div align= center>
   <h2>Visulização</h2>
